@@ -17,19 +17,25 @@ public class Easy {
 //        System.out.println(ValidParentheses20.isValid(s));
 
         //21.
-        ListNode l1 = new ListNode(1);
-        ListNode l2 = new ListNode(2);
-        ListNode l3 = new ListNode(4);
+        ListNode l1 = new ListNode(4);
+        ListNode l2 = new ListNode(1);
+        ListNode l3 = new ListNode(8);
+        ListNode l4 = new ListNode(4);
+        ListNode l5 = new ListNode(5);
         l1.next = l2;
         l2.next = l3;
-        l3.next = null;
+        l3.next = l4;
+        l4.next = l5;
+        l5.next = null;
 
-        ListNode r1 = new ListNode(1);
-        ListNode r2 = new ListNode(3);
-        ListNode r3 = new ListNode(4);
+        ListNode r1 = new ListNode(5);
+        ListNode r2 = new ListNode(0);
+        ListNode r3 = new ListNode(1);
+
         r1.next = r2;
         r2.next = r3;
-        r3.next = null;
+        r3.next = l3;
+
 
 //        Utils.logList(MergeTwoSortedLists21.mergeTwoLists(l1, r1));
 
@@ -57,12 +63,25 @@ public class Easy {
 
 
         //13.
-        String s = "LVIII";
-        System.out.println(RomantoInteger13.romanToInt(s));
+//        String s = "LVIII";
+//        System.out.println(RomantoInteger13.romanToInt(s));
 
         //118.
-        System.out.println(PascalTriangle118.getRow1(3));
+//        System.out.println(PascalTriangle118.getRow1(3));
 
+        //160.
+//        System.out.println(IntersectionofTwoLinkedLists160.getIntersectionNode(l1, r1).val);
+
+        //167.
+//        int[] a = {2, 7, 11, 15};
+//        System.out.println(TwoSumSorted167.twoSum(a, 22));
+
+        //168.
+//        System.out.println(ExcelSheetColumnTitle168.convertToTitle(27));
+
+        //169.
+        int[] a = {1,2,2,2,2,2,3,4,2,4,1};
+        System.out.println(MajorityElement169.majorityElement1(a));
 
 
     }
