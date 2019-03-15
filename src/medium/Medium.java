@@ -35,16 +35,19 @@ public class Medium {
 
 
         //19.
-        ListNode l1 = new ListNode(1);
+//        ListNode l1 = new ListNode(1);
 //        ListNode l2 = new ListNode(2);
 //        l1.next = l2;
+//
+//        ListNode t = RemoveNthNodeFromEndList19.removeNthFromEnd(l1, 1);
+//
+//        while (t != null) {
+//            System.out.println(t.val);
+//            t = t.next;
+//        }
 
-        ListNode t = RemoveNthNodeFromEndList19.removeNthFromEnd(l1, 1);
-
-        while (t != null) {
-            System.out.println(t.val);
-            t = t.next;
-        }
+        //22.
+        System.out.println(GenerateParentheses22.generateParenthesis(3));
 
     }
 }

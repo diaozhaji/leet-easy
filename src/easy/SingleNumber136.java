@@ -1,3 +1,5 @@
+package easy;
+
 public class SingleNumber136 {
 
     //这个方法不是最好的

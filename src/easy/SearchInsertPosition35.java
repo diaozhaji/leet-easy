@@ -1,3 +1,5 @@
+package easy;
+
 public class SearchInsertPosition35 {
 
     public static int searchInsert(int[] nums, int target) {

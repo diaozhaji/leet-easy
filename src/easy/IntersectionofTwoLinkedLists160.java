@@ -1,3 +1,5 @@
+package easy;
+
 import struct.ListNode;
 
 public class IntersectionofTwoLinkedLists160 {

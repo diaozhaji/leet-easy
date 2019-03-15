@@ -1,3 +1,5 @@
+package easy;
+
 public class TwoSumSorted167 {
 
     public static int[] twoSum(int[] numbers, int target) {

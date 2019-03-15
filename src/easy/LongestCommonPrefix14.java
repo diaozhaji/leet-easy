@@ -1,3 +1,5 @@
+package easy;
+
 public class LongestCommonPrefix14 {
 
     public static String longestCommonPrefix(String[] strs) {

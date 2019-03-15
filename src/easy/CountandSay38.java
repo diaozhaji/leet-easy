@@ -1,3 +1,5 @@
+package easy;
+
 public class CountandSay38 {
 
     public static String countAndSay(int n) {
