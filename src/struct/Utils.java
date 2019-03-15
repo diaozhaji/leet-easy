@@ -1,3 +1,5 @@
+package struct;
+
 public class Utils {
 
     public static void logList(ListNode head) {

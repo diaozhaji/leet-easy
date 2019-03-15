@@ -1,3 +1,5 @@
+import struct.ListNode;
+
 public class MergeTwoSortedLists21 {
     //递归
     public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {

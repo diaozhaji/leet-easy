@@ -1,3 +1,5 @@
+import struct.ListNode;
+
 public class IntersectionofTwoLinkedLists160 {
 
     public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {

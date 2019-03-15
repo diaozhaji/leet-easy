@@ -1,3 +1,5 @@
+import struct.ListNode;
+
 /**
  * @author jiyuan
  */
@@ -37,7 +39,7 @@ public class Easy {
         r3.next = l3;
 
 
-//        Utils.logList(MergeTwoSortedLists21.mergeTwoLists(l1, r1));
+//        struct.Utils.logList(MergeTwoSortedLists21.mergeTwoLists(l1, r1));
 
         //28.
 //        System.out.println(ImplementStrStr.strStr("hello","aa"));

@@ -1,6 +1,6 @@
 package medium;
 
-import hard.RegularExpressionMatching10;
+import struct.ListNode;
 
 public class Medium {
     public static void main(String[] args) {
@@ -27,9 +27,24 @@ public class Medium {
 //        System.out.println(IntegertoRoman12.intToRoman(1499));
 
         //15.
-        int[] nums = {-1, 0, 1, 2, -1, -4};
-        System.out.println(ThreeSum15.threeSum(nums));
+//        int[] nums = {-1, 0, 1, 2, -1, -4};
+//        System.out.println(ThreeSum15.threeSum(nums));
 
+        //17.
+//        System.out.println(LetterCombinationsPhoneNumber17.letterCombinations(""));
+
+
+        //19.
+        ListNode l1 = new ListNode(1);
+//        ListNode l2 = new ListNode(2);
+//        l1.next = l2;
+
+        ListNode t = RemoveNthNodeFromEndList19.removeNthFromEnd(l1, 1);
+
+        while (t != null) {
+            System.out.println(t.val);
+            t = t.next;
+        }
 
     }
 }
