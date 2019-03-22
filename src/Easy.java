@@ -1,3 +1,4 @@
+import easy.LengthofLastWord58;
 import easy.ValidParentheses20;
 import struct.ListNode;
 
@@ -85,6 +86,11 @@ public class Easy {
         //169.
 //        int[] a = {1,2,2,2,2,2,3,4,2,4,1};
 //        System.out.println(easy.MajorityElement169.majorityElement1(a));
+
+
+        //58.
+        String str = "hello world";
+        System.out.println(LengthofLastWord58.lengthOfLastWord(str));
 
 
     }

@@ -59,9 +59,20 @@ public class Medium {
 
         //39.
 
-        int[] a = {2, 3, 6, 7};
-        System.out.println(CombinationSum39.combinationSum(a, 7));
+//        int[] a = {2, 3, 6, 7};
+//        System.out.println(CombinationSum39.combinationSum(a, 7));
 
+
+        //46.
+//        int[] a = {3, 3, 0, 3};
+//        System.out.println(Permutations47.permuteUnique(a));
+
+        //47.
+//        System.out.println(PowXN50.myPow1(2, -5));
+
+        //55.
+        int[] a = {0, 3, 1};
+        System.out.println(JumpGame55.canJump(a));
 
     }
 }
