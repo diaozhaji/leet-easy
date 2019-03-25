@@ -1,3 +1,4 @@
+import easy.ClimbingStairs70;
 import easy.LengthofLastWord58;
 import easy.ValidParentheses20;
 import struct.ListNode;
@@ -17,8 +18,8 @@ public class Easy {
 //        System.out.println("最大公共前缀：" + easy.LongestCommonPrefix14.longestCommonPrefix(in));
 
         //20.
-        String s = "()]([){}";
-        System.out.println(ValidParentheses20.isValid1(s));
+//        String s = "()]([){}";
+//        System.out.println(ValidParentheses20.isValid1(s));
 
         //21.
         ListNode l1 = new ListNode(4);
@@ -89,9 +90,12 @@ public class Easy {
 
 
         //58.
-        String str = "hello world";
-        System.out.println(LengthofLastWord58.lengthOfLastWord(str));
+//        String str = "hello world";
+//        System.out.println(LengthofLastWord58.lengthOfLastWord(str));
 
+
+        //70.
+        System.out.println(ClimbingStairs70.climbStairs(12));
 
     }
 
