@@ -1,3 +1,4 @@
+import easy.BestTimetoBuyandSellStock121;
 import easy.ClimbingStairs70;
 import easy.LengthofLastWord58;
 import easy.ValidParentheses20;
@@ -95,7 +96,11 @@ public class Easy {
 
 
         //70.
-        System.out.println(ClimbingStairs70.climbStairs(12));
+//        System.out.println(ClimbingStairs70.climbStairs(12));
+
+        //121.
+        int a[] = {7,6,4,3,1};
+        System.out.println(BestTimetoBuyandSellStock121.maxProfit(a));
 
     }
 

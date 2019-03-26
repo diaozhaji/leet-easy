@@ -71,8 +71,12 @@ public class Medium {
 //        System.out.println(PowXN50.myPow1(2, -5));
 
         //55.
-        int[] a = {0, 3, 1};
-        System.out.println(JumpGame55.canJump(a));
+//        int[] a = {0, 3, 1};
+//        System.out.println(JumpGame55.canJump(a));
+
+        //64.
+        int dp[][] = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
+        System.out.println(MinimumPathSum64.minPathSum(dp));
 
     }
 }
