@@ -1,7 +1,4 @@
-import easy.BestTimetoBuyandSellStock121;
-import easy.ClimbingStairs70;
-import easy.LengthofLastWord58;
-import easy.ValidParentheses20;
+import easy.*;
 import struct.ListNode;
 
 /**
@@ -57,7 +54,7 @@ public class Easy {
 //        System.out.println(easy.CountandSay38.countAndSay(9));
 
         //67.
-//        System.out.println(easy.AddBinary67.addBinary("1010", "1011"));
+        System.out.println(easy.AddBinary67.addBinary("1", "11"));
 
         //136
 //        int[] a = {0,1,0,1,0,1,99};
@@ -99,8 +96,17 @@ public class Easy {
 //        System.out.println(ClimbingStairs70.climbStairs(12));
 
         //121.
-        int a[] = {7,6,4,3,1};
-        System.out.println(BestTimetoBuyandSellStock121.maxProfit(a));
+//        int a[] = {7,6,4,3,1};
+//        System.out.println(BestTimetoBuyandSellStock121.maxProfit(a));
+
+        //198.
+//        int a[] = {7, 6, 4, 3, 1};
+//        System.out.println(HouseRobber198.rob(a));
+
+        //150.
+//        String a[] = {"10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"};
+//        System.out.println(EvaluateReversePolishNotation150.evalRPN(a));
+
 
     }
 

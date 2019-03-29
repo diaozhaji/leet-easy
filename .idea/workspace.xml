@@ -4,8 +4,8 @@
     <list default="true" id="96417216-3059-418f-9ec6-206d7eb04c6e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Easy.java" afterPath="$PROJECT_DIR$/src/Easy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/BestTimetoBuyandSellStock121.java" afterPath="$PROJECT_DIR$/src/easy/BestTimetoBuyandSellStock121.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/Medium.java" afterPath="$PROJECT_DIR$/src/medium/Medium.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/AddBinary67.java" afterPath="$PROJECT_DIR$/src/easy/AddBinary67.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/MaximumSubarray53.java" afterPath="$PROJECT_DIR$/src/easy/MaximumSubarray53.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +25,8 @@
       <file leaf-file-name="Medium.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/Medium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+            <state relative-caret-position="537">
+              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,18 +55,38 @@
       <file leaf-file-name="Easy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Easy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="102" column="62" lean-forward="false" selection-start-line="102" selection-start-column="62" selection-end-line="102" selection-end-column="62" />
+            <state relative-caret-position="316">
+              <caret line="56" column="48" lean-forward="true" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSubarray53.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximumSubarray53.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easy/MaximumSubarray53.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddBinary67.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easy/AddBinary67.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HouseRobber198.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/HouseRobber198.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -86,6 +106,7 @@
       <find>.sort</find>
       <find>top</find>
       <find>回溯</find>
+      <find>add</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,9 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RomantoInteger13.java" />
-        <option value="$PROJECT_DIR$/src/PascalTriangle118.java" />
-        <option value="$PROJECT_DIR$/src/MinStack155.java" />
         <option value="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists160.java" />
         <option value="$PROJECT_DIR$/src/TwoSumSorted167.java" />
         <option value="$PROJECT_DIR$/src/ExcelSheetColumnTitle168.java" />
@@ -143,18 +161,21 @@
         <option value="$PROJECT_DIR$/src/medium/JumpGame55.java" />
         <option value="$PROJECT_DIR$/src/struct/Interval.java" />
         <option value="$PROJECT_DIR$/src/medium/MergeIntervals56.java" />
-        <option value="$PROJECT_DIR$/src/easy/MaximumSubarray53.java" />
         <option value="$PROJECT_DIR$/src/easy/LengthofLastWord58.java" />
         <option value="$PROJECT_DIR$/src/easy/ClimbingStairs70.java" />
         <option value="$PROJECT_DIR$/src/medium/Medium.java" />
         <option value="$PROJECT_DIR$/src/medium/MinimumPathSum64.java" />
-        <option value="$PROJECT_DIR$/src/Easy.java" />
         <option value="$PROJECT_DIR$/src/easy/BestTimetoBuyandSellStock121.java" />
+        <option value="$PROJECT_DIR$/src/easy/HouseRobber198.java" />
+        <option value="$PROJECT_DIR$/src/easy/MaximumSubarray53.java" />
+        <option value="$PROJECT_DIR$/src/easy/EvaluateReversePolishNotation150.java" />
+        <option value="$PROJECT_DIR$/src/Easy.java" />
+        <option value="$PROJECT_DIR$/src/easy/AddBinary67.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1519" />
+    <option name="x" value="1527" />
     <option name="y" value="-117" />
     <option name="width" value="1507" />
     <option name="height" value="1049" />
@@ -198,7 +219,7 @@
               <item name="leet" type="b2602c69:ProjectViewProjectNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="esay2" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leet" type="b2602c69:ProjectViewProjectNode" />
@@ -423,7 +444,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1519" y="-117" width="1507" height="1049" extended-state="0" />
+    <frame x="1527" y="-117" width="1507" height="1049" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -583,8 +604,14 @@
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/EvaluateReversePolishNotation150.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="51" />
+      <option name="time" value="52" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -593,20 +620,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="1250" column="22" lean-forward="false" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Hard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easy2.java" />
     <entry file="file://$PROJECT_DIR$/src/medium/ContainerWithMostWater11.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -667,21 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/AddBinary67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -919,7 +917,7 @@
         <state relative-caret-position="133">
           <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -948,26 +946,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/Medium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/MinimumPathSum64.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="102" column="62" lean-forward="false" selection-start-line="102" selection-start-column="62" selection-end-line="102" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -980,10 +962,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/Medium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/HouseRobber198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/EvaluateReversePolishNotation150.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/MaximumSubarray53.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Easy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="56" column="48" lean-forward="true" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/AddBinary67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
